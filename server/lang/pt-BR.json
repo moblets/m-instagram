@@ -1,0 +1,11 @@
+{
+  "moblet": {
+    "label": "Instagram",
+    "hint": "Pegue seu feed do Instagram",
+    "description": "Conecte sua conta do Instagram"
+  },
+  "login": {
+    "label": "Entrar",
+    "hint": "Entre com sua conta do Instagram"
+  }
+}

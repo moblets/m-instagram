@@ -1,0 +1,11 @@
+{
+  "moblet": {
+    "label": "Instagram",
+    "hint": "Get your Instagram feed",
+    "description": "Log in with your Instagram account"
+  },
+  "login": {
+    "label": "Log in",
+    "hint": "Log in with your Instagram account"
+  }
+}
